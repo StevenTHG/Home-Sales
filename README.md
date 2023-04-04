@@ -1,1 +1,3 @@
-# Home-Sales
+# Home Sales Challenge
+
+Included in this repo is a 'Home_Sales' Jupyter Notebook file that was used in conjunction with Google Colaboratory to perform an analysis on the provided home sales dataset. The purpose was to use SparkSQL to convert the data into a Spark DataFrame and perform queries that would answer various analysis questions. This includes using Spark to create temporary views, temporary tables, cache the tables, partition the data to reduce the runtime, and uncache the tables with verifications. 
